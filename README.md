@@ -19,8 +19,6 @@
 
 ▯ Know more about me at [roshanrajeev.xyz](https://roshanrajeev.xyz)
 
-▯ Fun fact **One thing I cannot live without is Anime**
-
 
 <br>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=roshanrajeev&show_icons=true&locale=en&layout=compact" alt="roshanrajeev" /></p>
